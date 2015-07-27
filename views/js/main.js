@@ -451,7 +451,7 @@ var resizePizzas = function(size) {
 
   // Iterates through pizza elements on the page and changes their widths
   function changePizzaSizes(size) {
-    // changed querySelectorAll() with getEleemntsByClassName() and moved the list of randomPizzaContainer items
+    // changed querySelectorAll() with getElementsByClassName() and moved the list of randomPizzaContainer items
     // outside of the For loop
     var container = document.getElementsByClassName("randomPizzaContainer");
     // moved the two variables dx and newwidth also outside of the For loop since all pizzas have the same size and
@@ -510,7 +510,7 @@ function updatePositions() {
 
   // moved the scroll position (srollPos) and the phase variable out of the For loop so that they are not created
   // for each pizza item.
-  var scrollPos = document.body.scrollTop / 1205;
+  var scrollPos = document.body.scrollTop / 1250;
   var phase;
   // changed querySelectorAll() to getElementsByClassName()
   var items = document.getElementsByClassName('mover');
