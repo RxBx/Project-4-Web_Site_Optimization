@@ -3,20 +3,17 @@ Introduction
 This is my submission for project 4 of [Udacity's Nanodegree in Front-End Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001). It contains several web page documents (HTML, JS, CSS) that I have edited for page speed and render optimization.
 
 
-Version number and release date
--------------------------------
+###Version number and release date
 This is version 1.0, published on 28 July 2015.
 
 
-Credits and contact
--------------------
+###Credits and contact
 The original assets were created by Udacity.
 
 I (Said Khalid Scharaf) have made minor edits to optimize the pages so that they meet the project's success criteria. You can reach me at sks@posteo.de
 
 
-Where to get the project files from
------------------------------------
+###Where to get the project files from
 You can find my project submission at https://github.com/khalito/Project-4-Web_Site_Optimization/
 
 The original assets can be found here: https://github.com/udacity/frontend-nanodegree-mobile-portfolio
@@ -25,39 +22,11 @@ The original assets can be found here: https://github.com/udacity/frontend-nanod
 How to run the web pages
 ========================
 
-###Repository structure
-This is the structure of the unzipped repository if you have downloaded and decompressed it correctly.
-
-├── css
-│   └── print.css
-├── img
-│   ├── 2048.png
-│   ├── cam_be_like.jpg
-│   ├── mobilewebdev.jpg
-│   └── profilepic.jpg
-├── index.html
-├── js
-│   └── perfmatters.js
-├── MANIFEST
-├── project-2048.html
-├── project-mobile.html
-├── project-webperf.html
-├── README.md
-└── views
-    ├── css
-    │   ├── bootstrap-grid.css
-    │   └── style.css
-    ├── images
-    │   ├── pizza.png
-    │   └── pizzeria.jpg
-    ├── js
-    │   └── main.js
-    └── pizza.html
-
 ###View the pages locally on your desktop
 1. Download my git repository (see link above) as a zip file and unzip it to your favorite local folder
 2. Open the index.html in that folder with your favorite web browser
 3. If you are using Chrome, you can use its Developer Tools to record a timeline and review the performance of the web pages.
+
 
 ###View the pages on your mobile device or any remote computer
 1. Download my git repository (see link above) as a zip file and unzip it to your favorite local folder
